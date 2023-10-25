@@ -1,0 +1,15 @@
+day,outlook,temp,humidity,wind,decision
+1,sunny,high,high,weak,no
+2,sunny,high,high,strong,no
+3,overcast,high,medium,weak,yes
+4,rain,medium,high,weak,yes
+5,rain,low,high,weak,yes
+6,rain,low,medium,strong,no
+7,overcast,low,low,strong,yes
+8,sunny,medium,high,weak,no
+9,sunny,low,medium,weak,yes
+10,rain,medium,high,weak,yes
+11,sunny,medium,medium,strong,yes
+12,overcast,medium,high,strong,yes
+13,overcast,high,medium,weak,yes
+14,rain,medium,high,strong,no
